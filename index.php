@@ -1,4 +1,3 @@
-Welcome to P1
 <!DOCTYPE html>
 <html>
 <head>
