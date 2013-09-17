@@ -1,0 +1,39 @@
+@charset "UTF-8";
+/* CSS Document */
+body  {
+	background-color:#8e6699;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	color:white;
+	font-size:14px;
+	text-align: justify;
+	font-style:none;
+	line-height: 18px; 
+}
+
+.left-background {
+	background-color: #42bdb7;
+	width: 50%;
+	height: 100%;
+	position: fixed;
+	top: 0;
+	left: 0;
+	}
+.right-background {
+	background-color: #a3a758;
+	width: 50%;
+	height: 100%;
+	position: fixed;
+	top: 0;
+	left: 50%;
+	}
+.content {
+	position:relative;
+	margin:0 auto 0 auto; 
+ 	width:400px; 
+ 	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	color:white;
+	font-size:14px;
+	text-align: justify;
+	font-style:none;
+	line-height: 18px; 
+	}
